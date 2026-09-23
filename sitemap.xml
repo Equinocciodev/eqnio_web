@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generado por generar-sitemap.py. No editar a mano. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://eqnio.com/</loc>
+    <lastmod>2026-08-11</lastmod>
+  </url>
+  <url>
+    <loc>https://eqnio.com/about.html</loc>
+    <lastmod>2026-08-11</lastmod>
+  </url>
+  <url>
+    <loc>https://eqnio.com/auditoria-tecnica.html</loc>
+    <lastmod>2026-08-11</lastmod>
+  </url>
+  <url>
+    <loc>https://eqnio.com/contact.html</loc>
+    <lastmod>2026-08-11</lastmod>
+  </url>
+  <url>
+    <loc>https://eqnio.com/desarrollo-de-software.html</loc>
+    <lastmod>2026-08-11</lastmod>
+  </url>
+  <url>
+    <loc>https://eqnio.com/infraestructura-alta-disponibilidad.html</loc>
+    <lastmod>2026-08-11</lastmod>
+  </url>
+  <url>
+    <loc>https://eqnio.com/odoo-venezuela.html</loc>
+    <lastmod>2026-08-11</lastmod>
+  </url>
+  <url>
+    <loc>https://eqnio.com/pagos-y-comercio-digital.html</loc>
+    <lastmod>2026-08-11</lastmod>
+  </url>
+  <url>
+    <loc>https://eqnio.com/vision-computacional.html</loc>
+    <lastmod>2026-08-11</lastmod>
+  </url>
+</urlset>
