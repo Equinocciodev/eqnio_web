@@ -22,10 +22,8 @@ Construimos software que va a producción, sistemas de inteligencia artificial a
 
 - Lenin Acosta — Supervisor de Desarrollo
 - Miguel Coronel — Coordinador de Soporte
-- Anyelo Monasterios — Product Manager
 - Enmanuel Gamero — Tech & Infrastructure Manager
 - Adrian Alves — Backend Developer, Financial Systems
-- Victor Serrano — Coordinador, DevOps & Odoo
 - Celmira Genes — Odoo Expert & Consultora
 
 Todos los miembros operan desde Isla Margarita, Nueva Esparta, Venezuela.
